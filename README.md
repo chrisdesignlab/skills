@@ -1,7 +1,9 @@
 Category|Skill|Exp (1-3)|Learning
 |-|-|-|-|
 |AI|Machine Learning|*|Y|
+|Backend|Node.js|*|Y|
 |Backend|Ruby on Rails|*|Y|
-|Frontend|React|*|Y|
+|Frontend|React.js|*|Y|
+|Frontend|Vue.js|*|Y|
 |Language|APL|*|Y|
-|Maths|Category Theory|*|Y|
+|Math|Category Theory|*|Y|
