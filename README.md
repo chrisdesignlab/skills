@@ -1,5 +1,7 @@
 Category|Skill|Exp (1-3)|Learning
 |-|-|-|-|
+|Backend|Docker|*|Y|
+|PHP|WordPress|*|Y|
 |AI|Machine Learning Basic|*||
 |Backend|Node.js|*||
 |Backend|Ruby on Rails|*||
